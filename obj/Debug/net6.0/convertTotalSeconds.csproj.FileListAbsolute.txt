@@ -1,0 +1,14 @@
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\bin\Debug\net6.0\convertTotalSeconds.exe
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\bin\Debug\net6.0\convertTotalSeconds.deps.json
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\bin\Debug\net6.0\convertTotalSeconds.runtimeconfig.json
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\bin\Debug\net6.0\convertTotalSeconds.dll
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\bin\Debug\net6.0\convertTotalSeconds.pdb
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\convertTotalSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\convertTotalSeconds.AssemblyInfoInputs.cache
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\convertTotalSeconds.AssemblyInfo.cs
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\convertTotalSeconds.csproj.CoreCompileInputs.cache
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\convertTotalSeconds.dll
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\refint\convertTotalSeconds.dll
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\convertTotalSeconds.pdb
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\convertTotalSeconds.genruntimeconfig.cache
+C:\Users\logo8\source\repos\convertTotalSeconds\convertTotalSeconds\obj\Debug\net6.0\ref\convertTotalSeconds.dll
